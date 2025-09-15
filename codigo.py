@@ -1,1 +1,1 @@
-nombre = Mayra
+num = 2
